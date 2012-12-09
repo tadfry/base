@@ -1,0 +1,23 @@
+/* Reset */
+body, h1, h2, h3, h4, h5, h6, p, a, ul, ol, li, div{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-size: 100%;
+	font-family: sans-serif;
+	font-weight: normal;
+	color: #333;
+	background: #fff;
+}
+
+/* Flexible media */
+img, object{
+	width: 100%;
+}
+
+/* Fix text-level elements to display as block */
+section, article, aside, header, footer, nav, figure{
+	display: block;
+}
