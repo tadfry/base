@@ -1,4 +1,4 @@
 # Base
-I am getting the ball rolling with my base HTML/CSS/JAVASCRIPT set up.
+My base set up for HTML/CSS/JS.
 
 This is a work in progress.

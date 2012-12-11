@@ -14,7 +14,8 @@ body{
 
 /* Flexible media */
 img, object{
-	width: 100%;
+	border: 0;
+	max-width: 100%;
 }
 
 /* Fix text-level elements to display as block */
